@@ -13,18 +13,18 @@ This package is a basic scRNA-seq analysis tool that can be invoked via command-
 ## Installation
 ### From PyPI
 ```bash
-pip install sc_analysis_toolkit
+pip install sc_analysis_scanpy
 ```
 
 ### From Source
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sc_analysis_toolkit.git
+git clone https://github.com/jasonhaoao/sc_analysis_scanpy.git
 ```
 
 2. Install from source:
 ```bash
-cd sc_analysis_toolkit
+cd sc_analysis_scanpy
 pip install .
 ```
 
