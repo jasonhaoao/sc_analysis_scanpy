@@ -61,5 +61,5 @@ This project is intended for learning and communication only. It may not be used
 ## Citation
 If you find this toolkit helpful in your research, please consider citing it in your publications:
 ```
-(Your GitHub repository information)
+https://github.com/jasonhaoao/sc_analysis_scanpy
 ```
