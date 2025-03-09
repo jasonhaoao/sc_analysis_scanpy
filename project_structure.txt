@@ -1,0 +1,11 @@
+sc_analysis/
+├── sc_analysis/
+│   ├── __init__.py
+│   ├── data_loader.py
+│   ├── preprocessing.py
+│   ├── analysis.py
+│   ├── visualization.py
+│   ├── main.py
+│   └── server.py
+├── setup.py
+└── README.md
