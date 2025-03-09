@@ -39,7 +39,7 @@ sc_analysis --input INPUT_FILE --output OUTPUT_FILE [OPTIONS]
 |-----------------|---------------------------------------|----------------|
 | --input         | Input file path                       | Required       |
 | --output        | Output file path                      | Required       |
-| --min_genes     | Minimum genes per cell                | 200            |
+| --min_genes     | Minimum genes per cell                | 2000            |
 | --min_cells     | Minimum cells per gene                | 3              |
 | --target_sum    | Normalization target sum              | 10000          |
 | --n_top_genes   | Number of highly variable genes       | 2000           |
