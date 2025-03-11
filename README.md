@@ -1,7 +1,9 @@
 # Single-cell RNA-seq Analysis Toolkit
 
 ## Description
-This package is a basic scRNA-seq analysis tool that can be invoked via command-line. It is designed for biological researchers without single-cell analysis workflow experience!
+This package is a basic scRNA-seq analysis tool that can be invoked via command-line.
+Based on scanpy
+It is designed for biological researchers without single-cell analysis workflow experience!
 
 ## Core Features
 - Built on Scanpy as the core functional package
